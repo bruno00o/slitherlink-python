@@ -7,4 +7,5 @@ L'objectif de ce projet de fin de première année était de reproduire le [Slit
 
 https://replit.com/@bruno00o/slitherlink?v=1
 
+⚠️ **à utiliser en plein écran (bouton en haut à droite de la fenêtre d'éxécution du code)**
 ⚠️ **les temps de résolution des grilles en mode solveur sont plus longs (peuvent dépasser 5min)**
